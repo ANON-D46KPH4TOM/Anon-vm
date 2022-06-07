@@ -13,4 +13,6 @@ cd Anon-vm
 
 python anonvm.py
 
-Now Enter The Linux Distro Code Without 0 (except 10 ) to Install
+
+
+
